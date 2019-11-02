@@ -15,4 +15,4 @@
 
 #### 시연(Practice Site)
 > ##### 1. 시범 사이트, http://rabbit2me.dothome.co.kr/board/list.php?name=story
-(Internet Explorer: △, Chrome: O, Mozilla Firefox: O, Microsoft Edge: O)
+(Internet Explorer: O, Chrome: O, Mozilla Firefox: O, Microsoft Edge: O)
